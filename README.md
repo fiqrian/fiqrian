@@ -8,11 +8,9 @@
 fiqrian/fiqrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrian&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<script src"https://github-readme-stats.vercel.app/api?username=fiqrian&show_icons=true&theme=radical"></script>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiqrian&show_icons=true&theme=radical)
 
 
 

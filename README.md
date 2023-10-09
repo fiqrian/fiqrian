@@ -4,7 +4,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fiqrian alt=fiqrian /> </p>
 
-[![Github stats]](https://github.com/fiqrian/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrian&layout=compact)](https://github.com/fiqrian/github-readme-stats)
 
 <!-- 
